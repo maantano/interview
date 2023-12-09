@@ -367,7 +367,7 @@ const page = () => {
                 RESTful API는 HTTP 프로토콜을 기반으로 하는 웹 서비스 아키텍쳐
                 입니다. 자원, 메소드, 메시지 등을 정의하여 클라이언트 와 서버
                 간의 통신을 가능하게 합니다. 또한 RESTful API 표준 HTTP 메소드는
-                (GET,POST,PUT,DELETE)를 사용하여 서버와 통신합니다/
+                (GET,POST,PUT,DELETE)를 사용하여 서버와 통신합니다
                 {/* <hr className="my-5" /> */}
                 <p className="inline-block  mb-2 py-1 px-2 rounded bg-green-100 text-green-800 text-xs font-medium tracking-widest">
                   요약
